@@ -3,7 +3,7 @@
 
 
 function setup() {
-	createCanvas(800, 600); //create a 500px X 500px canvas
+	createCanvas(1024, 780); //create a 500px X 500px canvas
  background(255,204,0); //an RGB color for the canvas' background
   //circle
 }
